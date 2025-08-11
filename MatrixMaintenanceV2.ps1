@@ -731,4 +731,4 @@ while ($continue) {
 }
 
 Write-Host ""
-Write-Host "Thank you for using the Windows System Maintenance Utility." -ForegroundColor Cyan
+Write-MatrixText "Thank you for using the Windows System Maintenance Utility." "Cyan"

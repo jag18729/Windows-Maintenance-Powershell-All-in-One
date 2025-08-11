@@ -1,0 +1,15 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(grep:*)",
+      "Bash(xxd:*)",
+      "Bash(sed:*)",
+      "Bash(pwsh:*)",
+      "Bash(cp:*)",
+      "Bash(powershell:*)",
+      "Bash(mv:*)",
+      "Bash(ls:*)"
+    ],
+    "deny": []
+  }
+}
